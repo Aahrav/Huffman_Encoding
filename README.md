@@ -1,4 +1,4 @@
-# Huffman_Encoding
+
 # Huffman Encoding and Cost Analysis
 
 This C++ project implements Huffman encoding for a given string and analyzes the compression costs.
